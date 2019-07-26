@@ -1,3 +1,5 @@
+**This repository is deprecated.** The examples are now available here: https://github.com/cypresssemiconductorco/mbed-os-example-aws-iot-client
+
 # Introduction
 This repository contains the code examples and demos for PSOC6 MCU family of devices bundled with connectivity. Additional PSoC 6-related code examples are available in other repos. See all examples at [Code Examples for Modus Toolbox](https://github.com/cypresssemiconductorco/Code-Examples-for-ModusToolbox-Software).
 
